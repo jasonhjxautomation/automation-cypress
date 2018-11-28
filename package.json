@@ -1,0 +1,19 @@
+{
+  "name": "dbr-automation-cypress",
+  "version": "1.0.0",
+  "description": "automation-cypress",
+  "main": "",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress run",
+    "cypress-gui": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhjxautomation/automation-cypress.git"
+  },
+  "author": "Cochlear",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.1.2"
+  }
+}
